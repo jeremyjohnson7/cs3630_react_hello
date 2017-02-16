@@ -4,7 +4,7 @@
 ## Modifications
 
 ### App.js
-In this file, I added a paragraph that says `Hello world` the Welcome element from class.\
+In this file, I added a paragraph that says `Hello world` and the Welcome element from class.
 
 ### Welcome.js
 This is the file we wrote in the class demonstration on Monday.
