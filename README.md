@@ -14,7 +14,7 @@ I modified this file to disable the animation.
 
 
 ## What I learned
-I like how new components can be defined to facilitate code reuse, and how the JSX resembles HTML. It is also interesting how the page is built dynamically by the client from static files.
+I like how new components can be defined to facilitate code reuse, and how the JSX resembles HTML. It is also interesting how the page is built dynamically by the client from static files and injected into an empty page.
 
 
 <br />
