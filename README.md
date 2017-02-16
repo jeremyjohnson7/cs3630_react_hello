@@ -1,3 +1,25 @@
+# CS 3630 – React Hello World
+
+
+## Modifications
+
+### App.js
+In this file, I added a paragraph that says `Hello world` the Welcome element from class.\
+
+### Welcome.js
+This is the file we wrote in the class demonstration on Monday.
+
+### App.css
+I modified this file to disable the animation.
+
+
+## What I learned
+I like how new components can be defined to facilitate code reuse, and how the JSX resembles HTML. It is also interesting how the page is built dynamically by the client from static files.
+
+
+---
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
