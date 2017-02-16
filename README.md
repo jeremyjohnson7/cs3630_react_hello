@@ -17,7 +17,9 @@ I modified this file to disable the animation.
 I like how new components can be defined to facilitate code reuse, and how the JSX resembles HTML. It is also interesting how the page is built dynamically by the client from static files.
 
 
+<br />
 ---
+<br />
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
